@@ -1,0 +1,17 @@
+D:\tubes alpro 2\bin\Debug\net8.0\tubes alpro 2.exe
+D:\tubes alpro 2\bin\Debug\net8.0\tubes alpro 2.dll
+D:\tubes alpro 2\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\tubes alpro 2\obj\Debug\net8.0\tubes alpro 2.csproj.AssemblyReference.cache
+D:\tubes alpro 2\obj\Debug\net8.0\tubes alpro 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\tubes alpro 2\obj\Debug\net8.0\tubes alpro 2.AssemblyInfoInputs.cache
+D:\tubes alpro 2\obj\Debug\net8.0\tubes alpro 2.AssemblyInfo.cs
+D:\tubes alpro 2\obj\Debug\net8.0\tubes alpro 2.csproj.CoreCompileInputs.cache
+D:\tubes alpro 2\obj\Debug\net8.0\tubes al.1ECA463F.Up2Date
+D:\tubes alpro 2\obj\Debug\net8.0\tubes alpro 2.dll
+D:\tubes alpro 2\obj\Debug\net8.0\refint\tubes alpro 2.dll
+D:\tubes alpro 2\obj\Debug\net8.0\tubes alpro 2.pdb
+D:\tubes alpro 2\bin\Debug\net8.0\tubes alpro 2.deps.json
+D:\tubes alpro 2\bin\Debug\net8.0\tubes alpro 2.runtimeconfig.json
+D:\tubes alpro 2\bin\Debug\net8.0\tubes alpro 2.pdb
+D:\tubes alpro 2\obj\Debug\net8.0\tubes alpro 2.genruntimeconfig.cache
+D:\tubes alpro 2\obj\Debug\net8.0\ref\tubes alpro 2.dll
